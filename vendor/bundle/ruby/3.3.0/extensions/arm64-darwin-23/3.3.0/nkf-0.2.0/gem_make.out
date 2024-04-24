@@ -1,0 +1,18 @@
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-3u2axs sitelibdir\=./.gem.20240424-27759-3u2axs clean
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-3u2axs sitelibdir\=./.gem.20240424-27759-3u2axs
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-3u2axs sitelibdir\=./.gem.20240424-27759-3u2axs install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240424-27759-3u2axs
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-3u2axs sitelibdir\=./.gem.20240424-27759-3u2axs clean

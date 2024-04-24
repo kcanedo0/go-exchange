@@ -1,0 +1,16 @@
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-4qgoyl sitelibdir\=./.gem.20240424-27759-4qgoyl clean
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-4qgoyl sitelibdir\=./.gem.20240424-27759-4qgoyl
+make: Nothing to be done for `all'.
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-4qgoyl sitelibdir\=./.gem.20240424-27759-4qgoyl install
+
+current directory: /Users/dna/Desktop/Project/goexchange/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240424-27759-4qgoyl sitelibdir\=./.gem.20240424-27759-4qgoyl clean
